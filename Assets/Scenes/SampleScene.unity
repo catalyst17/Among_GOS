@@ -1028,7 +1028,7 @@ PrefabInstance:
     - target: {fileID: 940290317, guid: 1b15d7ab4ab782c4face0f793831246a, type: 3}
       propertyPath: lightRays
       value: 
-      objectReference: {fileID: 1355434780}
+      objectReference: {fileID: 0}
     - target: {fileID: 1394754657372110369, guid: 1b15d7ab4ab782c4face0f793831246a, type: 3}
       propertyPath: m_RootOrder
       value: 2
